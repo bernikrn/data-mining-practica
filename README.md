@@ -1,1 +1,2 @@
-# data-mining-practica
+# Practica final de data mining
+## Bernardo Koron
